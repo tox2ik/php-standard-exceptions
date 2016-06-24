@@ -1,0 +1,19 @@
+{
+    "name": "tox2ik/php-standard-exceptions",
+    "description": "Exceptions with semantic names (see Java).",
+    "type": "utility",
+    "license": "public-domain",
+    "authors": [
+        {
+            "name": "jaroslav",
+            "email": "jazzoslav@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+       "psr-4": {
+	       "Genja\\": "src/Genja"
+       }
+    }
+}
